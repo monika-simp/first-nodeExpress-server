@@ -5,3 +5,4 @@ dist/
 /src/controllers/waifusController.js
 /src/models/waifus.js
 .gitignore
+/userValidations
